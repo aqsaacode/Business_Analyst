@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 import os
 st.set_page_config(
     page_title="AI Business Analyst",
-    page_icon="📊",
+    page_icon="logo.png-Photoroom.png",
     layout="wide"
 )
 load_dotenv()
