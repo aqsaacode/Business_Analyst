@@ -1,0 +1,6 @@
+streamlit
+pandas
+groq
+fpdf2
+python-dotenv
+openpyxl
