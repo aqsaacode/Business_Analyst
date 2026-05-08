@@ -26,4 +26,4 @@ An AI-powered web app that automatically analyzes any business data file and gen
 Coming soon
 
 ## Author
-Built by [Your Name] — 18 year old developer from Pakistan
+Built by Aqsa Ilyas — 18 year old developer from Pakistan
