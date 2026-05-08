@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-client = Groq(api_key=os.getenv("Groq_API_KEY"))
+client = Groq(api_key=os.getenv("GROG_API_KEY"))
 
 st.title("AI Business Analyst")
 st.write("Upload your sales data and get instant insights")
