@@ -4,7 +4,11 @@ from groq import Groq
 from fpdf import FPDF
 from dotenv import load_dotenv
 import os
-
+st.set_page_config(
+    page_title="AI Business Analyst",
+    page_icon="📊",
+    layout="wide"
+)
 load_dotenv()
 client = Groq(api_key=os.getenv("GROG_API_KEY"))
 
